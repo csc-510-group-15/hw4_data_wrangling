@@ -6,7 +6,7 @@
   &nbsp;&nbsp;
   
   <!-- License: MIT -->
-  <a href="./LICENSE.md" target="_blank" title="View License">
+  <a href="./LICENSE" target="_blank" title="View License">
     <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License: MIT" />
   </a>
   &nbsp;&nbsp;
